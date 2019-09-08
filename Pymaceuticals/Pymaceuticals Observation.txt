@@ -1,0 +1,8 @@
+ Include 3 observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
+ 
+ 1. Tumor volume decreases -19% over 45 days treatment on capomulin drug while there are significant increases on ketapril(57%), placebo(51%), and Infubinol(45%)
+ 
+ 2. Survival rate during treatment is higher on ketapril.
+ 
+ 3. Metastatic spread during treatment is also higher on placebo.
+ 
